@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Embedded System Design**
 
-- 💬 Ask me about **ROS, Gazebo, Simulations**
+- 💬 Ask me about **ROS, Gazebo, Simulations, CAD Designs, Digital Logic Design**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ad-deen-mahbub-2bb6211a0/**
 
