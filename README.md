@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ad-Deen Mahbub</h1>
-<h3 align="center">As you can see I am very happy about the fact that you came here :3 . If you find my projects in the repository helpful and if our interests coincide let's collaborate. I am also looking for further opportunities in the field of robotics that's why showcasing my skillsets here.</h3>
+<h3 align="center">As you can see I am very happy about the fact that you came here :3 . If you find my projects in the repository helpful and if our interests coincide let's collaborate. I am also looking for further opportunities in the field of robotics that's why I'm showcasing my skillsets here.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ad-Deen/Ad-Deen/main/4j.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-deen&label=Profile%20views&color=0e75b6&style=flat" alt="ad-deen" /> </p>
 
