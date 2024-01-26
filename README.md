@@ -19,9 +19,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
  <p align="left"> <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.ros.org/en/humble/_static/humble-small.png" alt="ROS2" width="40" height="40"/> 
- <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://gazebosim.org/assets/images/gazebo_horz_pos_topbar.svg" alt="Gazebo" width="40" height="40"/> </a> 
+ <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos_small-0534ff73fffc6a43177f0ec67b7f0ca5b71b50308660dba809c2c325339c7d06.png" alt="Gazebo" width="40" height="40"/> </a> 
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/assets/press/logo_vertical_color_light.png" alt="Godot" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
