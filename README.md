@@ -18,8 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.ros.org/en/humble/_static/humble-small.png" alt="ROS2" width="40" height="40"/>
-  <p align="left"> <a href="https://gymnasium.farama.org/" target="_blank" rel="noreferrer"> <img src="https://gymnasium.farama.org/_static/img/gymnasium_black.svg" alt="OpenAi_Gym" width="40" height="40"/>
+ <p align="left"> <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.ros.org/en/humble/_static/humble-small.png" alt="ROS2" width="40" height="40"/> </a>
+ <a align="left"> <a href="https://gymnasium.farama.org/" target="_blank" rel="noreferrer"> <img src="https://gymnasium.farama.org/_static/img/gymnasium_black.svg" alt="OpenAi_Gym" width="40" height="40"/> </a>
  <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos_small-0534ff73fffc6a43177f0ec67b7f0ca5b71b50308660dba809c2c325339c7d06.png" alt="Gazebo" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
