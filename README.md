@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ad-Deen/Ad-Deen/main/4j.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-deen&label=Profile%20views&color=0e75b6&style=flat" alt="ad-deen" /> </p>
 
-- 🔭 I’m currently working on **Underwater Simulation with Gazebo**
+- 🔭 I’m currently working on **Autonomous racing with RL**
 
-- 🌱 I’m currently learning **Embedded System Design**
+- 🌱 I’m currently learning **Reinforced Learning Architecture**
 
 - 💬 Ask me about **ROS, Gazebo, Simulations, CAD Designs, Digital Logic Design**
 
